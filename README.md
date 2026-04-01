@@ -51,5 +51,5 @@ GET /api/heroes/(id)/
 
 ## Screenshots
 
-![game-stats](screenshots/game-stats.png)
-![faction-stats](screenshots/faction-stats.png)
+![game-stats](./screenshots/game-stats.png)
+![faction-stats](./screenshots/faction-stats.png)
