@@ -1,0 +1,21 @@
+body {
+  background-image: url('http://127.0.0.1:8000/media/mics/undiscovered.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: gold;
+  margin: 0;
+  padding: 0;
+}
+
+.link {
+  text-decoration: none;       
+  color: rgb(221, 184, 82);               
+  display: inline-block;     
+  transition: text-decoration 0.2s;  
+}
+
+
+.link:hover span {
+  text-decoration: underline;
+}
