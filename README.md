@@ -44,10 +44,10 @@ npm start
 
 ## API Endpoints
 
-GET /api/matches/
-GET /api/stats/
-POST /api/matches/
-
+GET /api/games/
+GET /api/factions/
+GET /api/heroes/
+GET /api/heroes/(id)/
 
 ## Screenshots
 
