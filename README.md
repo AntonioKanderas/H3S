@@ -47,9 +47,12 @@ npm start
 GET /api/games/
 GET /api/factions/
 GET /api/heroes/
-GET /api/heroes/(id)/
+GET /api/maps/
+GET /api/rounds/
+GET /api/factions/(faction_id)/stats/(game_id)/
+
 
 ## Screenshots
 
-![game-stats](./screenshots/game-stats.png)
-![faction-stats](./screenshots/faction-stats.png)
+![game-stats](screenshots/game-stats.png)
+![faction-stats](screenshots/faction-stats.png)
