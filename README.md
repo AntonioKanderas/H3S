@@ -54,5 +54,5 @@ GET /api/factions/(faction_id)/stats/(game_id)/
 
 ## Screenshots
 
-![game-stats](screenshots/game-stats.png)
-![faction-stats](screenshots/faction-stats.png)
+![game-stats](screenshots/game-stats.PNG)
+![faction-stats](screenshots/faction-stats.PNG)
